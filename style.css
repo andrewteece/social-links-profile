@@ -21,3 +21,31 @@
   --clr-neutral-800: hsl(0, 0%, 12%);
   --clr-neutral-900: hsl(0, 0%, 8%);
 }
+
+/* CSS RESET */
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* BODY STYLES */
