@@ -30,3 +30,16 @@ The designs were created to the following widths:
 
 - Family: [Inter](https://fonts.google.com/specimen/Inter)
 - Weights: 400, 600, 700
+
+
+### Text 
+
+  Jessica Randall
+  London, United Kingdom
+  "Front-end developer and avid reader."
+
+  GitHub
+  Frontend Mentor
+  LinkedIn
+  Twitter
+  Instagram
