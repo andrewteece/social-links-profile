@@ -1,0 +1,23 @@
+/* FONTS */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+/* CSS CUSTOM PROPERTIES */
+
+:root {
+  --ff-primary: 'Inter', sans-serif;
+
+  --fw-reg: 400;
+  --fw-semi: 600;
+  --fw-bold: 700;
+
+  --fs-base: 0.875rem;
+  --fs-lg: 1.5rem;
+
+  --clr-primary-400: hsl(75, 94%, 57%);
+
+  --clr-neutral-100: hsl(0, 0%, 100%);
+  --clr-neutral-500: hsl(0, 0%, 20%);
+  --clr-neutral-800: hsl(0, 0%, 12%);
+  --clr-neutral-900: hsl(0, 0%, 8%);
+}
