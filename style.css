@@ -105,5 +105,16 @@ body {
 .card--text {
   font-size: var(--fs-base);
   font-weight: var(--fw-reg);
+  margin-bottom: 1.5rem;
+}
+
+.card--link {
+  font-size: var(--fs-base);
+  font-weight: var(--fw-bold);
+  width: 100%;
+  padding: 0.8rem 6rem;
   margin-bottom: 1rem;
+  border-radius: 0.5rem;
+  background-color: var(--clr-neutral-500);
+  color: var(--clr-neutral-100);
 }
