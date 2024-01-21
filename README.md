@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/andrewteece/social-links-profile](https://your-solution-url.com)
-- Live Site URL: [https://andrewteece.github.io/social-links-profile/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/andrewteece/social-links-profile]
+- Live Site URL: [https://andrewteece.github.io/social-links-profile/]
 
 ### Built with
 
