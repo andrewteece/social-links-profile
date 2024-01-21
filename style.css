@@ -40,10 +40,6 @@ img {
   display: block;
 }
 
-li {
-  list-style: none;
-}
-
 a {
   text-decoration: none;
 }
@@ -60,12 +56,54 @@ body {
   height: 100vh;
 }
 
+/* UTILITY CLASSES */
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.flow-content > * + * {
+  margin-top: 2rem;
+}
+
 /* CARD STYLES */
 
 .card {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: var(--clr-neutral-500);
+  text-align: center;
+  padding: 2.5rem;
+  background-color: var(--clr-neutral-800);
   border-radius: 12px;
+}
+
+.card--img {
+  width: 5.5rem;
+  height: 5.5rem;
+  margin: 1.5rem;
+  border-radius: 50%;
+}
+
+.card--title {
+  font-size: var(--fs-lg);
+  font-weight: var(--fw-semi);
+  margin-bottom: 0.6rem;
+}
+
+.card--subtitle {
+  font-size: var(--fs-base);
+  font-weight: var(--fw-bold);
+  color: var(--clr-primary-400);
+  margin-bottom: 1.5rem;
+}
+
+.card--text {
+  font-size: var(--fs-base);
+  font-weight: var(--fw-reg);
+  margin-bottom: 1rem;
 }
