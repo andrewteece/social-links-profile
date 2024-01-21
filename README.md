@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/andrewteece/social-links-profile](https://your-solution-url.com)
-- Live Site URL: [https://scintillating-moonbeam-1fc0e0.netlify.app/](https://your-live-site-url.com)
+- Live Site URL: [https://scintillating-moonbeam-1fc0e0.netlify](https://your-live-site-url.com)
 
 ### Built with
 
@@ -42,6 +42,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@andrewteece](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@andrewteece](https://www.frontendmentor.io/profile/andrewteece)
 
 
